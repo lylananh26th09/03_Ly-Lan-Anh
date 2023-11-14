@@ -1,3 +1,4 @@
+<?php 
 /* Bai kiem tra 
 Trac nghiem : 
 Cau 1 : Array
@@ -15,6 +16,7 @@ Cau 3 : a. array()
 Cau 4 : a. readfile()
 Cau 5 : b.  Chuyển đổi một đối tượng thành một chuỗi
 */
+?>
 <?php
 // Bài 1: Viết một chương trình PHP để hiển thị dãy số Fibonacci. Yêu cầu:
 echo "Bài 1: <br>"; 
